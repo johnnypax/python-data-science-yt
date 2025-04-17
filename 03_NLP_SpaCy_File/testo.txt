@@ -1,0 +1,5 @@
+Il canale YouTube Archety.dev propone contenuti formativi su sviluppo software e tecnologie digitali.
+Ogni settimana pubblichiamo video tutorial su Python, JavaScript, Angular e .NET.
+Il nostro obiettivo è rendere la programmazione accessibile, interessante e concreta.
+Trattiamo argomenti come API REST, automazione, intelligenza artificiale e sicurezza del codice.
+Gli studenti e i professionisti possono imparare in modo pratico attraverso esempi reali.

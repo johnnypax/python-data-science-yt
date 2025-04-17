@@ -1,0 +1,158 @@
+[
+    {
+        "text": "canale",
+        "pos": "NOUN",
+        "dep": "nsubj",
+        "lemma": "canale"
+    },
+    {
+        "text": "YouTube",
+        "pos": "PROPN",
+        "dep": "nsubj",
+        "lemma": "YouTube"
+    },
+    {
+        "text": "Archety.dev",
+        "pos": "PROPN",
+        "dep": "flat:name",
+        "lemma": "archety.dev"
+    },
+    {
+        "text": "contenuti",
+        "pos": "NOUN",
+        "dep": "obj",
+        "lemma": "contenuto"
+    },
+    {
+        "text": "sviluppo",
+        "pos": "NOUN",
+        "dep": "obl",
+        "lemma": "sviluppo"
+    },
+    {
+        "text": "software",
+        "pos": "NOUN",
+        "dep": "compound",
+        "lemma": "software"
+    },
+    {
+        "text": "tecnologie",
+        "pos": "NOUN",
+        "dep": "conj",
+        "lemma": "tecnologia"
+    },
+    {
+        "text": "settimana",
+        "pos": "NOUN",
+        "dep": "obl",
+        "lemma": "settimana"
+    },
+    {
+        "text": "video",
+        "pos": "NOUN",
+        "dep": "obj",
+        "lemma": "video"
+    },
+    {
+        "text": "tutorial",
+        "pos": "NOUN",
+        "dep": "compound",
+        "lemma": "tutorial"
+    },
+    {
+        "text": "Python",
+        "pos": "PROPN",
+        "dep": "nmod",
+        "lemma": "Python"
+    },
+    {
+        "text": "JavaScript",
+        "pos": "PROPN",
+        "dep": "conj",
+        "lemma": "JavaScript"
+    },
+    {
+        "text": "Angular",
+        "pos": "PROPN",
+        "dep": "conj",
+        "lemma": "Angular"
+    },
+    {
+        "text": "obiettivo",
+        "pos": "NOUN",
+        "dep": "obj",
+        "lemma": "obiettivo"
+    },
+    {
+        "text": "programmazione",
+        "pos": "NOUN",
+        "dep": "obj",
+        "lemma": "programmazione"
+    },
+    {
+        "text": "argomenti",
+        "pos": "NOUN",
+        "dep": "obj",
+        "lemma": "argomento"
+    },
+    {
+        "text": "API",
+        "pos": "PROPN",
+        "dep": "nmod",
+        "lemma": "API"
+    },
+    {
+        "text": "REST",
+        "pos": "PROPN",
+        "dep": "flat:name",
+        "lemma": "REST"
+    },
+    {
+        "text": "automazione",
+        "pos": "NOUN",
+        "dep": "nmod",
+        "lemma": "automazione"
+    },
+    {
+        "text": "intelligenza",
+        "pos": "NOUN",
+        "dep": "conj",
+        "lemma": "intelligenza"
+    },
+    {
+        "text": "sicurezza",
+        "pos": "NOUN",
+        "dep": "conj",
+        "lemma": "sicurezza"
+    },
+    {
+        "text": "codice",
+        "pos": "NOUN",
+        "dep": "nmod",
+        "lemma": "codice"
+    },
+    {
+        "text": "studenti",
+        "pos": "NOUN",
+        "dep": "nsubj",
+        "lemma": "studente"
+    },
+    {
+        "text": "professionisti",
+        "pos": "NOUN",
+        "dep": "conj",
+        "lemma": "professionista"
+    },
+    {
+        "text": "modo",
+        "pos": "NOUN",
+        "dep": "obl",
+        "lemma": "modo"
+    },
+    {
+        "text": "esempi",
+        "pos": "NOUN",
+        "dep": "nmod",
+        "lemma": "esempio"
+    }
+]

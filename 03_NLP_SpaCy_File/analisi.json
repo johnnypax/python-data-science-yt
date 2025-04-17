@@ -1,0 +1,446 @@
+[
+  {
+    "text": "Il",
+    "pos": "DET",
+    "dep": "det",
+    "lemma": "il"
+  },
+  {
+    "text": "canale",
+    "pos": "NOUN",
+    "dep": "nsubj",
+    "lemma": "canale"
+  },
+  {
+    "text": "YouTube",
+    "pos": "PROPN",
+    "dep": "nsubj",
+    "lemma": "YouTube"
+  },
+  {
+    "text": "Archety.dev",
+    "pos": "PROPN",
+    "dep": "flat:name",
+    "lemma": "archety.dev"
+  },
+  {
+    "text": "propone",
+    "pos": "VERB",
+    "dep": "ROOT",
+    "lemma": "proporre"
+  },
+  {
+    "text": "contenuti",
+    "pos": "NOUN",
+    "dep": "obj",
+    "lemma": "contenuto"
+  },
+  {
+    "text": "formativi",
+    "pos": "ADJ",
+    "dep": "amod",
+    "lemma": "formativo"
+  },
+  {
+    "text": "su",
+    "pos": "ADP",
+    "dep": "case",
+    "lemma": "su"
+  },
+  {
+    "text": "sviluppo",
+    "pos": "NOUN",
+    "dep": "obl",
+    "lemma": "sviluppo"
+  },
+  {
+    "text": "software",
+    "pos": "NOUN",
+    "dep": "compound",
+    "lemma": "software"
+  },
+  {
+    "text": "e",
+    "pos": "CCONJ",
+    "dep": "cc",
+    "lemma": "e"
+  },
+  {
+    "text": "tecnologie",
+    "pos": "NOUN",
+    "dep": "conj",
+    "lemma": "tecnologia"
+  },
+  {
+    "text": "digitali",
+    "pos": "ADJ",
+    "dep": "amod",
+    "lemma": "digitale"
+  },
+  {
+    "text": ".",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": "."
+  },
+  {
+    "text": "\n",
+    "pos": "SPACE",
+    "dep": "dep",
+    "lemma": "\n"
+  },
+  {
+    "text": "Ogni",
+    "pos": "DET",
+    "dep": "det",
+    "lemma": "ogni"
+  },
+  {
+    "text": "settimana",
+    "pos": "NOUN",
+    "dep": "obl",
+    "lemma": "settimana"
+  },
+  {
+    "text": "pubblichiamo",
+    "pos": "VERB",
+    "dep": "ROOT",
+    "lemma": "pubblichiamo"
+  },
+  {
+    "text": "video",
+    "pos": "NOUN",
+    "dep": "obj",
+    "lemma": "video"
+  },
+  {
+    "text": "tutorial",
+    "pos": "NOUN",
+    "dep": "compound",
+    "lemma": "tutorial"
+  },
+  {
+    "text": "su",
+    "pos": "ADP",
+    "dep": "case",
+    "lemma": "su"
+  },
+  {
+    "text": "Python",
+    "pos": "PROPN",
+    "dep": "nmod",
+    "lemma": "Python"
+  },
+  {
+    "text": ",",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": ","
+  },
+  {
+    "text": "JavaScript",
+    "pos": "PROPN",
+    "dep": "conj",
+    "lemma": "JavaScript"
+  },
+  {
+    "text": ",",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": ","
+  },
+  {
+    "text": "Angular",
+    "pos": "PROPN",
+    "dep": "conj",
+    "lemma": "Angular"
+  },
+  {
+    "text": "e",
+    "pos": "CCONJ",
+    "dep": "cc",
+    "lemma": "e"
+  },
+  {
+    "text": ".NET",
+    "pos": "PUNCT",
+    "dep": "conj",
+    "lemma": ".NET"
+  },
+  {
+    "text": ".",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": "."
+  },
+  {
+    "text": "\n",
+    "pos": "SPACE",
+    "dep": "dep",
+    "lemma": "\n"
+  },
+  {
+    "text": "Il",
+    "pos": "DET",
+    "dep": "det",
+    "lemma": "il"
+  },
+  {
+    "text": "nostro",
+    "pos": "DET",
+    "dep": "det:poss",
+    "lemma": "nostro"
+  },
+  {
+    "text": "obiettivo",
+    "pos": "NOUN",
+    "dep": "obj",
+    "lemma": "obiettivo"
+  },
+  {
+    "text": "è",
+    "pos": "VERB",
+    "dep": "conj",
+    "lemma": "essere"
+  },
+  {
+    "text": "rendere",
+    "pos": "VERB",
+    "dep": "ccomp",
+    "lemma": "rendere"
+  },
+  {
+    "text": "la",
+    "pos": "DET",
+    "dep": "det",
+    "lemma": "il"
+  },
+  {
+    "text": "programmazione",
+    "pos": "NOUN",
+    "dep": "obj",
+    "lemma": "programmazione"
+  },
+  {
+    "text": "accessibile",
+    "pos": "ADJ",
+    "dep": "amod",
+    "lemma": "accessibile"
+  },
+  {
+    "text": ",",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": ","
+  },
+  {
+    "text": "interessante",
+    "pos": "ADJ",
+    "dep": "conj",
+    "lemma": "interessante"
+  },
+  {
+    "text": "e",
+    "pos": "CCONJ",
+    "dep": "cc",
+    "lemma": "e"
+  },
+  {
+    "text": "concreta",
+    "pos": "ADJ",
+    "dep": "conj",
+    "lemma": "concreto"
+  },
+  {
+    "text": ".",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": "."
+  },
+  {
+    "text": "\n",
+    "pos": "SPACE",
+    "dep": "dep",
+    "lemma": "\n"
+  },
+  {
+    "text": "Trattiamo",
+    "pos": "VERB",
+    "dep": "ROOT",
+    "lemma": "trattiamo"
+  },
+  {
+    "text": "argomenti",
+    "pos": "NOUN",
+    "dep": "obj",
+    "lemma": "argomento"
+  },
+  {
+    "text": "come",
+    "pos": "ADP",
+    "dep": "case",
+    "lemma": "come"
+  },
+  {
+    "text": "API",
+    "pos": "PROPN",
+    "dep": "nmod",
+    "lemma": "API"
+  },
+  {
+    "text": "REST",
+    "pos": "PROPN",
+    "dep": "flat:name",
+    "lemma": "REST"
+  },
+  {
+    "text": ",",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": ","
+  },
+  {
+    "text": "automazione",
+    "pos": "NOUN",
+    "dep": "nmod",
+    "lemma": "automazione"
+  },
+  {
+    "text": ",",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": ","
+  },
+  {
+    "text": "intelligenza",
+    "pos": "NOUN",
+    "dep": "conj",
+    "lemma": "intelligenza"
+  },
+  {
+    "text": "artificiale",
+    "pos": "ADJ",
+    "dep": "amod",
+    "lemma": "artificiale"
+  },
+  {
+    "text": "e",
+    "pos": "CCONJ",
+    "dep": "cc",
+    "lemma": "e"
+  },
+  {
+    "text": "sicurezza",
+    "pos": "NOUN",
+    "dep": "conj",
+    "lemma": "sicurezza"
+  },
+  {
+    "text": "del",
+    "pos": "ADP",
+    "dep": "case",
+    "lemma": "di il"
+  },
+  {
+    "text": "codice",
+    "pos": "NOUN",
+    "dep": "nmod",
+    "lemma": "codice"
+  },
+  {
+    "text": ".",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": "."
+  },
+  {
+    "text": "\n",
+    "pos": "SPACE",
+    "dep": "dep",
+    "lemma": "\n"
+  },
+  {
+    "text": "Gli",
+    "pos": "DET",
+    "dep": "det",
+    "lemma": "il"
+  },
+  {
+    "text": "studenti",
+    "pos": "NOUN",
+    "dep": "nsubj",
+    "lemma": "studente"
+  },
+  {
+    "text": "e",
+    "pos": "CCONJ",
+    "dep": "cc",
+    "lemma": "e"
+  },
+  {
+    "text": "i",
+    "pos": "DET",
+    "dep": "det",
+    "lemma": "il"
+  },
+  {
+    "text": "professionisti",
+    "pos": "NOUN",
+    "dep": "conj",
+    "lemma": "professionista"
+  },
+  {
+    "text": "possono",
+    "pos": "AUX",
+    "dep": "aux",
+    "lemma": "potere"
+  },
+  {
+    "text": "imparare",
+    "pos": "VERB",
+    "dep": "ROOT",
+    "lemma": "imparare"
+  },
+  {
+    "text": "in",
+    "pos": "ADP",
+    "dep": "case",
+    "lemma": "in"
+  },
+  {
+    "text": "modo",
+    "pos": "NOUN",
+    "dep": "obl",
+    "lemma": "modo"
+  },
+  {
+    "text": "pratico",
+    "pos": "ADJ",
+    "dep": "amod",
+    "lemma": "pratico"
+  },
+  {
+    "text": "attraverso",
+    "pos": "ADP",
+    "dep": "case",
+    "lemma": "attraverso"
+  },
+  {
+    "text": "esempi",
+    "pos": "NOUN",
+    "dep": "nmod",
+    "lemma": "esempio"
+  },
+  {
+    "text": "reali",
+    "pos": "ADJ",
+    "dep": "amod",
+    "lemma": "reale"
+  },
+  {
+    "text": ".",
+    "pos": "PUNCT",
+    "dep": "punct",
+    "lemma": "."
+  }
+]
